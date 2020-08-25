@@ -31,13 +31,17 @@ Módulo automatizado en Metasploit:
 
 https://github.com/hanx8/TFM2020/blob/master/SCRIPT%20MOD%20HTTP/mod_exploit.rb
 
+# DESARROLLO DE OTRO MÓDULO EXPLOTANDO OTRA VULNERABILIDAD MUY SIMILAR(FTP).
 
+Se explotó otra vulnerabilidad muy parecida en vez del servicio HTTP en este caso es con FTP. Tipo de explotación remote stack buffer overflow en Windows XP SP3 x86. Siguiendo los mismos pasos demostrados con la vulnerabilidad anterior. Este Item, está basado en el objetivo
 
+El detalle de lo mencionado se encuentra en:
 
+https://github.com/hanx8/TFM2020/blob/master/TFM%202020-Hans%20L%C3%B3pez%20Mendoza.pdf
 
+Código manual:
 
-
-
+Módulo automatizado en Metasploit:
 
 
 
