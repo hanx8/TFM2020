@@ -61,12 +61,12 @@ En base a las vulnerabilidades explotadas en este TFM (Http/Ftp), se ha diseñad
 ![alt text](https://github.com/hanx8/TFM2020/blob/master/GR%C3%81FICOS/framework.jpg)
 
 
-video:
-
-https://www.youtube.com/watch?v=pK060iUFWXg
+# VIDEO
 
 
-[![IMAGE ALT TEXT](https://www.youtube.com/watch?v=pK060iUFWXg)](https://www.youtube.com/watch?v=pK060iUFWXg "Video Title")
+https://youtu.be/uu0peJ-H-RU
+
+[![ScreenShot](https://github.com/hanx8/TFM2020/blob/master/GR%C3%81FICOS/comparaci%C3%B3n.jpg)](https://youtu.be/uu0peJ-H-RU)
 
 
 
