@@ -41,9 +41,11 @@ https://github.com/hanx8/TFM2020/blob/master/TFM%202020-Hans%20L%C3%B3pez%20Mend
 
 Código manual:
 
+https://github.com/hanx8/TFM2020/blob/master/SCRIPT%20MOD%20FTP/exploit_ftp.py
+
 Módulo automatizado en Metasploit:
 
-
+https://github.com/hanx8/TFM2020/blob/master/SCRIPT%20MOD%20FTP/mod_exploit_ftp.rb
 
 
 
