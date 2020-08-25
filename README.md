@@ -5,3 +5,4 @@ Luego se realizó una explotación muy parecida en vez de Http con FTP, siguiend
 
 # ESCENARIO
 
+GRÁFICOS/escenario.jpg
