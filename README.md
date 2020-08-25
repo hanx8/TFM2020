@@ -31,6 +31,13 @@ Módulo automatizado en Metasploit:
 
 https://github.com/hanx8/TFM2020/blob/master/SCRIPT%20MOD%20HTTP/mod_exploit.rb
 
+# COMPARACIÓN DE LA EXPLOTACIÓN MANUAL CON EL MÓDULO DE METASPLOIT
+
+Se realiza la comparación de la explotación manual (Python) con la explotación automatizada (Metasploit).
+
+
+
+
 # DESARROLLO DE OTRO MÓDULO EXPLOTANDO OTRA VULNERABILIDAD MUY SIMILAR(FTP).
 
 Se explotó otra vulnerabilidad muy parecida en vez del servicio HTTP en este caso es con FTP. Tipo de explotación remote stack buffer overflow en Windows XP SP3 x86. Siguiendo los mismos pasos demostrados con la vulnerabilidad anterior. Este Item, está basado en el objetivo
@@ -46,9 +53,6 @@ https://github.com/hanx8/TFM2020/blob/master/SCRIPT%20MOD%20FTP/exploit_ftp.py
 Módulo automatizado en Metasploit:
 
 https://github.com/hanx8/TFM2020/blob/master/SCRIPT%20MOD%20FTP/mod_exploit_ftp.rb
-
-
-
 
 
 
