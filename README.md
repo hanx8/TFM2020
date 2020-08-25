@@ -54,11 +54,11 @@ Módulo automatizado en Metasploit:
 
 https://github.com/hanx8/TFM2020/blob/master/SCRIPT%20MOD%20FTP/mod_exploit_ftp.rb
 
+# DISEÑO DE UN FRAMEWORK PARA LA CREACIÓN DE LA EXPLOTACIÓN MANUAL Y AUTOMATIZADA.
 
+En base a las vulnerabilidades explotadas en este TFM (Http/Ftp), se ha diseñado un framework, el cual ayudará a personas con poca experiencia a desarrollar sus propios módulos siguiendo el esquema o estructura que se establece y aprovechar para desarrollar de forma organizada y sencilla.
 
-
-
-
+![alt text](https://github.com/hanx8/TFM2020/blob/master/GR%C3%81FICOS/framework.jpg)
 
 
 
