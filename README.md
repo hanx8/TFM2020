@@ -15,9 +15,52 @@ Se muestra el escenario y la descripción:
 
 ![alt text](https://github.com/hanx8/TFM2020/blob/master/GR%C3%81FICOS/escenario.jpg)
 
-# DESARROLLODEL CÓDIGO MANUAL Y EL MÓDULO AUTOMATIZADO
+# DESARROLLO DEL CÓDIGO MANUAL Y EL MÓDULO AUTOMATIZADO(HTTP)
 
-Se desarrolló el código manual y script en:
+Parte del procedimiento del desarrollo del código/módulo automatizado, se tiene que realizar el reconocimiento dónde encontraremos IP, Puerto, versión de sistema operativo y de la aplicación vulnerable para insertarlo al script; luego en el análisis se interceptará el tráfico HTTP en este caso validando los parámetros utilizados.
+Conforme se va desarrollando el código, vamos analizando con Immunity Debugger, calculamos el offset y bad caracter para seguir con la explotación. Al ejecutar el código manual/módulo automatizado, explotaremos la vulnerabilidad de stack buffer overflow dentro de Windows XP SP3 en la aplicación vulnerable (Integard versión 2.2); al ser explotada la máquina víctima enviará un Reverse TCP y le dará acceso al atacante mediante Meterpreter.
+El detalle de lo mencionado se encuentra en:
+
+https://github.com/hanx8/TFM2020/blob/master/TFM%202020-Hans%20L%C3%B3pez%20Mendoza.pdf
+
+Código manual:
+
+https://github.com/hanx8/TFM2020/blob/master/SCRIPT%20MOD%20HTTP/exploit_integard.py
+
+Módulo automatizado en Metasploit:
+
+https://github.com/hanx8/TFM2020/blob/master/SCRIPT%20MOD%20HTTP/mod_exploit.rb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
