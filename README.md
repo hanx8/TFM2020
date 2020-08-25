@@ -35,7 +35,7 @@ https://github.com/hanx8/TFM2020/blob/master/SCRIPT%20MOD%20HTTP/mod_exploit.rb
 
 Se realiza la comparación de la explotación manual (Python) con la explotación automatizada (Metasploit).
 
-
+![alt text](https://github.com/hanx8/TFM2020/blob/master/GR%C3%81FICOS/comparaci%C3%B3n.jpg)
 
 
 # DESARROLLO DE OTRO MÓDULO EXPLOTANDO OTRA VULNERABILIDAD MUY SIMILAR(FTP).
