@@ -5,5 +5,5 @@ Luego se realizó una explotación muy parecida en vez de Http con FTP, siguiend
 
 # ESCENARIO
 
-https://github.com/hanx8/TFM2020/blob/master/GR%C3%81FICOS/escenario.jpg
+![alt text](https://github.com/hanx8/TFM2020/blob/master/GR%C3%81FICOS/escenario.jpg)
 
