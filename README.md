@@ -63,7 +63,7 @@ En base a las vulnerabilidades explotadas en este TFM (Http/Ftp), se ha diseñad
 
 # VIDEO
 
-[![ScreenShot](https://github.com/hanx8/TFM2020/blob/master/GR%C3%81FICOS/youtube.jpg=250x250)](https://youtu.be/uu0peJ-H-RU)
+[![ScreenShot=250x250](https://github.com/hanx8/TFM2020/blob/master/GR%C3%81FICOS/youtube.jpg)](https://youtu.be/uu0peJ-H-RU)
 
 
 
