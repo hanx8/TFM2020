@@ -66,13 +66,7 @@ video:
 https://www.youtube.com/watch?v=pK060iUFWXg
 
 
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=pK060iUFWXg" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=pK060iUFWXg"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+[![IMAGE ALT TEXT](https://www.youtube.com/watch?v=pK060iUFWXg)](https://www.youtube.com/watch?v=pK060iUFWXg "Video Title")
 
 
 
